@@ -19,5 +19,5 @@ This repo is made for storing tiktok musics which would be used in Xeon Bot Inc.
 -------
 
 <p align="center">
-If you wish to copy the codes you can but put my name as credit🦄
+If you wish to copy the musics you can but put my name as credit🦄
 </p>
