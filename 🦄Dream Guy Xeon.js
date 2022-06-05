@@ -1,0 +1,3 @@
+{
+	"name": "Tiktokmusic-API"
+}
